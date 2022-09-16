@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/coffee-shop-react/static/css/main.8eb438a0.chunk.css",
-    "main.js": "/coffee-shop-react/static/js/main.4a244696.chunk.js",
-    "main.js.map": "/coffee-shop-react/static/js/main.4a244696.chunk.js.map",
-    "runtime-main.js": "/coffee-shop-react/static/js/runtime-main.7f0ae4e6.js",
-    "runtime-main.js.map": "/coffee-shop-react/static/js/runtime-main.7f0ae4e6.js.map",
-    "static/js/2.a5d88ea6.chunk.js": "/coffee-shop-react/static/js/2.a5d88ea6.chunk.js",
-    "static/js/2.a5d88ea6.chunk.js.map": "/coffee-shop-react/static/js/2.a5d88ea6.chunk.js.map",
-    "index.html": "/coffee-shop-react/index.html",
-    "static/css/main.8eb438a0.chunk.css.map": "/coffee-shop-react/static/css/main.8eb438a0.chunk.css.map",
-    "static/js/2.a5d88ea6.chunk.js.LICENSE.txt": "/coffee-shop-react/static/js/2.a5d88ea6.chunk.js.LICENSE.txt"
+    "main.css": "/coffeeShopReact/static/css/main.8eb438a0.chunk.css",
+    "main.js": "/coffeeShopReact/static/js/main.4a244696.chunk.js",
+    "main.js.map": "/coffeeShopReact/static/js/main.4a244696.chunk.js.map",
+    "runtime-main.js": "/coffeeShopReact/static/js/runtime-main.427d6477.js",
+    "runtime-main.js.map": "/coffeeShopReact/static/js/runtime-main.427d6477.js.map",
+    "static/js/2.a5d88ea6.chunk.js": "/coffeeShopReact/static/js/2.a5d88ea6.chunk.js",
+    "static/js/2.a5d88ea6.chunk.js.map": "/coffeeShopReact/static/js/2.a5d88ea6.chunk.js.map",
+    "index.html": "/coffeeShopReact/index.html",
+    "static/css/main.8eb438a0.chunk.css.map": "/coffeeShopReact/static/css/main.8eb438a0.chunk.css.map",
+    "static/js/2.a5d88ea6.chunk.js.LICENSE.txt": "/coffeeShopReact/static/js/2.a5d88ea6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f0ae4e6.js",
+    "static/js/runtime-main.427d6477.js",
     "static/js/2.a5d88ea6.chunk.js",
     "static/css/main.8eb438a0.chunk.css",
     "static/js/main.4a244696.chunk.js"
