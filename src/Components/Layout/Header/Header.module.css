@@ -1,0 +1,82 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5rem;
+  background-color: #fff;
+  color: #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  z-index: 10;
+}
+
+.sidebarSocial {
+  margin-top: 5px;
+  width: 300px;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+}
+.sidebarSocial a i {
+  color: #222;
+  margin-left: 10px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.sidebarSocial span i {
+  color: #222;
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+.heroSec {
+  padding: 0% 10%;
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  height: 80vh;
+  background-color: #fff;
+}
+.heroText {
+  height: 84.3%;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.heroText h4 {
+  color: #f57328;
+  font-weight: 500;
+}
+.heroBtn {
+  width: 150px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #444;
+  color: #fff;
+  border: none;
+}
+
+.main-image {
+  margin-bottom: -8rem;
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  /* height: 100%; */
+}
+
+.main-image img {
+  width: 25rem;
+  height: 32rem;
+  object-fit: cover;
+  /* transform: rotateZ(-5deg) translateY(-8rem) translateX(-1rem); */
+  border: 5px solid #444;
+}
